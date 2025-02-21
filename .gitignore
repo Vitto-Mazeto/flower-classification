@@ -1,0 +1,4 @@
+*.jpg
+archive/*
+flowers_split/*
+.venv/*
